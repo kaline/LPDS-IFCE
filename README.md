@@ -1,3 +1,1 @@
-IFCECHAT
-
-Integraçao rocket.chat para o IFCE.
+"c¢digos dos artigos do LPDS" 
